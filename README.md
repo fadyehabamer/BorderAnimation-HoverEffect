@@ -1,2 +1,4 @@
-# Content-box-Hover-effect
- Using Css3
+# Border Animation 
+> when hover using 
+- CSS
+ - pesoudo elements
